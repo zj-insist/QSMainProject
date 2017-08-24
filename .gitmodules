@@ -1,0 +1,3 @@
+[submodule "modules/QSPrivatePodsLibrary"]
+	path = modules/QSPrivatePodsLibrary
+	url = https://zj-insist@github.com/zj-insist/QSPrivatePodsLibrary.git
